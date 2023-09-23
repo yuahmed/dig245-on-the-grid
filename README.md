@@ -55,16 +55,25 @@ See Moodle.
 
 - Critical Web Design Chapter 4 examples: [The New York Felines](https://omundy.github.io/critical-web-design-book/04-on-the-grid/examples/the-new-york-felines/)
 - [20 Excellent Websites With Responsive Web Design 2023](https://colorlib.com/wp/responsive-web-design/)
+- 📚 Diogo Terror [Lessons From Swiss Style Graphic Design](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/) (2009) 
+- 📚 Andrew Maher [How You Make A Grid](https://kupdf.net/download/grid-design-for-graphic-designers-by-andrew-maher_58f4a3f0dc0d60a14ada97de_pdf) (2-9) (2011)
+- 📚 Frank Chimero [Craft and Beauty](https://shapeofdesignbook.com/chapters/02-craft-and-beauty/) (28-34) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
+- 📚 Thomas Lowry [Everything you need to know about layout grids in Figma](https://www.figma.com/best-practices/everything-you-need-to-know-about-layout-grids/) 
 
 
 ## Design
 
-Follow the prompt in Chapter 4 of Critical Web Design to create a responsive grid-based design. Start with the desktop first. Then after you have an a clear direction, complete the tablet and mobile layouts. 
+Follow the prompt in Chapter 4 of Critical Web Design to create a responsive grid-based design. 
+
+1. Start with the desktop layout first. 
+1. Use any grid-based site as inspiration. 
+1. Add any text and images you like; for example [Lorem Ipsum](https://loremipsum.io/) or [alternatives](https://www.justinmind.com/blog/awesome-lorem-ipsum-alternatives/)
+1. After you have completed multiple versions of the desktop, complete the tablet and mobile layouts. 
 
 
 ## Code
 
-Code your design in HTML/CSS/JS using the Bootstrap framework. Test your breakpoints often by adjusting the width of the browser window.
+Code your design in HTML/CSS/JS using the [Bootstrap](https://getbootstrap.com) framework. Test your breakpoints often by adjusting the width of the browser window.
 
 
 
