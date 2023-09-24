@@ -51,13 +51,15 @@ See Moodle.
 [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 
 
-## Inspiration
+## Context
 
-- Critical Web Design Chapter 4 examples: [The New York Felines](https://omundy.github.io/critical-web-design-book/04-on-the-grid/examples/the-new-york-felines/)
-- 📚 Diogo Terror [Lessons From Swiss Style Graphic Design](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/) (2009) 
-- 📚 Andrew Maher [How You Make A Grid](https://kupdf.net/download/grid-design-for-graphic-designers-by-andrew-maher_58f4a3f0dc0d60a14ada97de_pdf) (2-9) (2011)
-- 📚 Frank Chimero [Craft and Beauty](https://shapeofdesignbook.com/chapters/02-craft-and-beauty/) (28-34) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
-- 📚 Aigars Silkalns [20 Excellent Websites With Responsive Web Design](https://colorlib.com/wp/responsive-web-design/) (2023)
+- 📚 "On the Grid" (chapter 4) in Critical Web Design
+    - Chapter example(s): [The New York Felines](https://omundy.github.io/critical-web-design-book/04-on-the-grid/examples/the-new-york-felines/)
+- Articles:
+    - 📚 Diogo Terror [Lessons From Swiss Style Graphic Design](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/) (2009) 
+    - 📚 Andrew Maher [How You Make A Grid](https://kupdf.net/download/grid-design-for-graphic-designers-by-andrew-maher_58f4a3f0dc0d60a14ada97de_pdf) (2-9) (2011)
+    - 📚 Frank Chimero [Craft and Beauty](https://shapeofdesignbook.com/chapters/02-craft-and-beauty/) (28-34) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
+    - 📚 Aigars Silkalns [20 Excellent Websites With Responsive Web Design](https://colorlib.com/wp/responsive-web-design/) (2023)
 
 
 
