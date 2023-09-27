@@ -60,6 +60,7 @@ See Moodle.
     - 📚 Andrew Maher [How You Make A Grid](https://kupdf.net/download/grid-design-for-graphic-designers-by-andrew-maher_58f4a3f0dc0d60a14ada97de_pdf) (2-9) (2011)
     - 📚 Frank Chimero [Craft and Beauty](https://shapeofdesignbook.com/chapters/02-craft-and-beauty/) (28-34) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
     - 📚 Aigars Silkalns [20 Excellent Websites With Responsive Web Design](https://colorlib.com/wp/responsive-web-design/) (2023)
+    - [Graphic Design Theory #12 - Grids](https://www.youtube.com/watch?v=Q9efIv7ix1Y) (10:02)
 
 
 
