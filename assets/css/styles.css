@@ -1,6 +1,7 @@
 
 /* css */
 
+/* FONT SETTINGS for all text */
 h2, h1, h4{
     font-family: 'Georgia Pro Cond', sans-serif;
 }
@@ -12,26 +13,59 @@ h5{
 
 p{
     font-family: 'Arial', sans-serif;
+    margin-top: 1rem;
 }
 
 .rightcol{
     font-family: 'Georgia Pro Cond', sans-serif;
-}
-.headdiv{
-    border-top: solid 0.1rem black ;
-    position: relative;
-    top: 70px;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
 }
 
-.divider{
-    border-bottom: solid 0.1rem black ;
-    position: relative;
-    top:0.30em;
-}
-
+/* HEADLINE  */
 .headline{
     transform: scale(1,2);
     margin-top: 1rem;
+}
+
+.headdiv{
+    border-top: solid 0.1rem black ;
+    position: relative;
+    /* top: 70px; */
+}
+
+/* DIVIDERS AND MARGINS */
+.divider{
+    border-bottom: solid 0.1rem black ;
+    position: relative;
+    margin-bottom: 1rem;
+    /* xtop:1rem; */
+}
+
+    /* main_grid_row */
+#mgrow{
+ margin-top: 2.5rem;
+}
+
+    /* nested_grid_row */
+#ngrow{
+    margin-top: 3rem;
+}
+
+.img-fluid{
+    width:100%;
+    height: auto;
+    margin-bottom: 2rem;
+}
+
+/* RESPONSIVE TEXT CHANGE */
+.short-text { 
+    display: none; 
+}
+
+@media (max-width:767px) {
+    .short-text { display: inline-block; }
+    .full-text { display: none; }
 }
 
 
